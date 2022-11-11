@@ -1,9 +1,9 @@
-####Rules for Contributors
+# Rules for Contributors:
 Use descriptive comments and variable names for ease in collaboration.
 
 Communicate via Discord for planning new code/tasks
 
-###Goals
+# Goals:
 Create an API using Flask and Open telemetry
 
 a) make an issue per feature
