@@ -5,4 +5,7 @@ This app will build out a REST API to teach new developers basic REST using Flas
 - None, for now.
 
 # Contributors:
-- TBD. See open source projects for how they add contributors to a readme.
+- Mycoleb
+- potentially Mordstreich1
+# Advisers:
+-Jameslygan
