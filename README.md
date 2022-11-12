@@ -6,6 +6,6 @@ This app will build out a REST API to teach new developers basic REST using Flas
 
 # Contributors:
 - Mycoleb
-- potentially Mordstreich1
+- Mordstreich1
 # Advisers:
 -Jameslygan
